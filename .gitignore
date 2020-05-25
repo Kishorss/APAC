@@ -3,5 +3,5 @@
 
 *.apy
 !myfile.apy
-tmp/*
+tmp1/*
 
