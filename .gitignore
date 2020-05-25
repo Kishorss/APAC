@@ -1,0 +1,7 @@
+##  Ignoring .apy file except myfile.apy and /tmp
+##
+
+*.apy
+!myfile.apy
+! tmp/*
+
